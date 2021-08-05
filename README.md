@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning Russian language
 - 🧑‍💻 I'm currently looking for a remote frontend development job (React)
 - 👯 I’m looking to collaborate on frontend projects
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 Reach me via benedictryan80@gmail.com
 
 <!--
