@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Ben888GitHub
 - 🔭 I’m currently working on MERN Stack web applications
-- 🌱 I’m currently learning Russian language
+- 📖 I’m currently learning Russian language
 - 🧑‍💻 I'm currently looking for a remote frontend development job (React)
 - 👯 I’m looking to collaborate on frontend projects
 - 📫 Reach me via benedictryan80@gmail.com
