@@ -10,11 +10,11 @@
 - 🔬 I’m looking to collaborate on frontend development projects
 - 📫 Reach me via benedictryan80@gmail.com
 ---
-[![](https://github-readme-stats.vercel.app/api?username=Ben888GitHub&theme=algolia)](https://github.com/Ben888GitHub)
+[![](https://github-readme-stats.vercel.app/api?username=Ben888GitHub&theme=vue-dark)](https://github.com/Ben888GitHub)
 
-[![](https://github-readme-streak-stats.herokuapp.com/?user=Ben888GitHub&theme=algolia)](https://github.com/Ben888GitHub)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Ben888GitHub&theme=vue-dark)](https://github.com/Ben888GitHub)
 
-[![](https://activity-graph.herokuapp.com/graph?username=Ben888GitHub&custom_title=Ben888GitHub's%20Contribution%20Graph&theme=react-dark)](https://github.com/Ben888GitHub)
+[![](https://activity-graph.herokuapp.com/graph?username=Ben888GitHub&custom_title=Ben888GitHub's%20Contribution%20Graph&theme=github)](https://github.com/Ben888GitHub)
 
 <!--
 **Ben888GitHub/Ben888GitHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
