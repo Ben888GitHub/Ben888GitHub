@@ -9,7 +9,6 @@
 - 🧑‍💻 I'm currently looking for a remote frontend development job (React)
 - 🔬 I’m looking to collaborate on frontend development projects
 - 📫 Reach me via benedictryan80@gmail.com
-
 ---
 [![](https://github-readme-stats.vercel.app/api?username=Ben888GitHub&theme=algolia)](https://github.com/Ben888GitHub)
 
