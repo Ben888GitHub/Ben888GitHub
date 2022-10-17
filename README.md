@@ -6,7 +6,7 @@
 
 - 💻 **Front-end Developer**
 - 🧑‍💻 I'm currently looking for a remote frontend development job (React)
-- ⛓ I’m currently working on Web 3.0 Projects
+- ⛓ I’m currently working on Cinema System App
 - 🔬 I’m looking to collaborate on frontend development projects
 - 📫 Reach me via benedictryan80@gmail.com
 ---
