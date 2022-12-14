@@ -39,7 +39,6 @@
 <br/>
 
 ## 📈 Contribution Graph
-[![](https://activity-graph.herokuapp.com/graph?username=Ben888GitHub&custom_title=Ben888GitHub's%20Contribution%20Graph&theme=github)](https://github.com/Ben888GitHub)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ben888GitHub&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br/>
 
