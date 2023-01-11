@@ -1,4 +1,4 @@
-# Hi, I'm Ben888GitHub! :wave:
+# Hi, I'm Ben Ryan! :wave:
     
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benedict-ryan/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/BenedictRyan10)
@@ -9,6 +9,9 @@
 - ⛓ I’m currently working on Cinema System App
 - 🔬 I’m looking to collaborate on frontend development projects
 - 📫 Reach me via benedictryan80@gmail.com
+
+Growth-oriented Web Developer with 3+ years of experience working in JavaScript, React, and Next.js using Scrum / Agile methodology that drives business growth. Highly adept at both independent and collaborative projects, with emphasis on Responsive Web Design, Progressive Web App, Single Page App, Networking, Data Storage, Web Performance + SEO Optimization, Web Analytics, Extended Reality, Web Security, Cross-Browser Development & Serverless Architecture.
+
 ---
 ## 💻 Technologies `</>`
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
@@ -29,7 +32,6 @@
 [![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)](https://docs.github.com/en/actions)
 [![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/)
 [![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)](https://socket.io/)
-
 ---
 
 ## 📊 GitHub Stats
