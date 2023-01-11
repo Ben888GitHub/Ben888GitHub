@@ -10,7 +10,7 @@
 - 🔬 I’m looking to collaborate on frontend development projects
 - 📫 Reach me via benedictryan80@gmail.com
 
-Growth-oriented Web Developer with 3+ years of experience working in JavaScript, React, and Next.js using Scrum / Agile methodology that drives business growth. Highly adept at both independent and collaborative projects, with emphasis on Responsive Web Design, Progressive Web App, Single Page App, Networking, Data Storage, Web Performance + SEO Optimization, Web Analytics, Extended Reality, Web Security, Cross-Browser Development & Serverless Architecture.
+Ben is a Growth-oriented Web Developer with 3+ years of experience working in JavaScript, React, and Next.js using Scrum / Agile methodology that drives business growth. Highly adept at both independent and collaborative projects, with emphasis on Responsive Web Design, Progressive Web App, Single Page App, Networking, Data Storage, Web Performance + SEO Optimization, Web Analytics, Extended Reality, Web Security, Cross-Browser Development & Serverless Architecture.
 
 ---
 ## 💻 Technologies `</>`
