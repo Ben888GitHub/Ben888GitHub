@@ -6,7 +6,7 @@
 
 - 💻 **Front-end Developer**
 - 🧑‍💻 I'm currently looking for a remote frontend development job (React)
-- ⛓ I’m building TMDB Film Explorer platform at the moment
+- ⛓ I’m building an Open Source TMDB Film Explorer platform at the moment
 - 🔬 I’m looking to collaborate on frontend development projects
 - 📫 Reach me via benedictryan80@gmail.com
 
