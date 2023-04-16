@@ -5,8 +5,8 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://benedict-ryan.vercel.app/)
 
 - 💻 **Front-end Developer**
-- 🧑‍💻 I'm currently looking for a remote frontend development job (React)
-- ⛓ I’m building an Open Source TMDB Film Explorer platform at the moment
+- 🧑‍💻 I'm looking for a Frontend Developer job (React & Next.js)
+- ⛓ I’m building an Open Source Project at the moment
 - 🔬 I’m looking to collaborate on frontend development projects
 - 📫 Reach me via benedictryan80@gmail.com
 
