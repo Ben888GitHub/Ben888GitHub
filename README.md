@@ -50,7 +50,7 @@ Ben is a Growth-oriented Web Developer with 3+ years of experience working in Ja
 <br/>
 
 ## 📈 Contribution Graph
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ben888GitHub&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ben888GitHub&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br/>
 
 ## 🏆 GitHub Trophies
