@@ -47,6 +47,7 @@ Ben is a Growth-oriented Web Developer with 3+ years of experience working in Ja
 [![](https://github-readme-stats.vercel.app/api?username=Ben888GitHub&theme=vue-dark)](https://github.com/Ben888GitHub)
 
 [![](https://github-readme-streak-stats.herokuapp.com/?user=Ben888GitHub&theme=vue-dark)](https://github.com/Ben888GitHub)
+
 <br/>
 
 ## 📈 Contribution Graph
@@ -55,6 +56,10 @@ Ben is a Growth-oriented Web Developer with 3+ years of experience working in Ja
 
 ## 🏆 GitHub Trophies
 [![](https://github-profile-trophy.vercel.app/?username=Ben888GitHub&theme=discord&no-frame=false&no-bg=false&margin-w=4)](https://github.com/Ben888GitHub)
+
+<br/>
+
+[![Ben888GitHub's GitHub | Topics Over Time](https://stats.quine.sh/Ben888GitHub/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Ben888GitHub)
 
 <!--
 **Ben888GitHub/Ben888GitHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
