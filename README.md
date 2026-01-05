@@ -25,17 +25,17 @@
 
 ### OS / Virtualization
 <div>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/virtualbox-%23183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white" />
+  <img src="https://img.shields.io/badge/-VMware-607078?style=flat&logo=vmware&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white"/>
 </div>
 
 ### Network
 <div>
-  <img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Fortinet-EE3124?style=flat&logo=fortinet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-VirusTotal-394EFF?style=flat&logo=virustotal&logoColor=white"/>
 </div>
 
 ### Endpoint
